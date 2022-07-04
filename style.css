@@ -1,0 +1,83 @@
+
+
+
+.orenge {
+    color: orange;
+}
+body{
+    margin: 0px;
+}
+.felx-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    
+
+}
+
+.half-width img {
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+}
+
+.btn {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+ background-image: url(/images/top-banner.png);
+ background-repeat: no-repeat;
+
+}
+.dream-big{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-big p h1 h2 {
+    padding-right: 10px 40px;
+}  
+.orange{
+    color: orange;
+}
+.ex-item{
+    width: 40%;
+  box-shadow: 10px 10px 40px gray;
+  margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+} 
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fstack{
+ border-left: 10px solid tomato;
+}
+#bdev{
+    border-left: 10px solid lightsalmon;
+}
+#bdev p{
+    padding-left: 10px;
+    font-size: 20px;
+}
+#fstack p{
+    padding-left: 10px;
+    font-size: 20px;
+}
+footer p{
+    font-size: 20px;
+    text-align: center;
+}
